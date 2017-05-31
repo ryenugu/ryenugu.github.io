@@ -1,7 +1,7 @@
 ## Welcome to Ravindar Yenugu's Page
 
 
-## About Ravindar Yenugu:
+### About Ravindar Yenugu:
 
 
 ### Markdown
