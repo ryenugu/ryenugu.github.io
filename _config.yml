@@ -1,1 +1,2 @@
 theme: jekyll-theme-minimal
+permalink: /:categories/:year/:month/:day/:title.html
