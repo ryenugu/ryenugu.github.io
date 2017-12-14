@@ -3,35 +3,24 @@
 
 ### About Ravindar Yenugu:
 
+There are many different ways to style code with GitHub's markdown. If you have inline code blocks, wrap them in backticks: `var example = true`.  If you've got a longer block of code, you can indent with four spaces:
 
-### Markdown
+    if (isAwesome){
+      return true
+    }
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+GitHub also supports something called code fencing, which allows for multiple lines without indentation:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+if (isAwesome){
+  return true
+}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+And if you'd like to use syntax highlighting, include the language:
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ryenugu/ryenugu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```javascript
+if (isAwesome){
+  return true
+}
+```
