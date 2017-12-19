@@ -3,4 +3,8 @@
 
 ### About Ravindar Yenugu:
 
-I work as a Software Engineer in Investment Industry. I design database and develop applications.
+I work as a Software Engineer in Investment Industry. I design databases and develop applications.
+
+Proud Alumnus of Cleveland State University
+
+Cleveland Rocks!!
