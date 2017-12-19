@@ -7,4 +7,4 @@ I work as a Software Engineer in Investment Industry. I design databases and dev
 
 Proud Alumnus of Cleveland State University
 
-Currently, Pursuing [CFA] (https://www.cfainstitute.org/pages/index.aspx) !
+Currently, Pursuing CFA https://www.cfainstitute.org/pages/index.aspx
